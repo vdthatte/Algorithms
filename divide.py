@@ -1,4 +1,6 @@
 
+# Running Time: O(n^2)
+
 def divide(x,y):
 	"""
 
